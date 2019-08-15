@@ -1,0 +1,48 @@
+{
+  "name": "vue-generate",
+  "version": "1.0.0",
+  "description": "This project its a fork from library: Vue js component generator",
+  "main": "lib/vgc.js",
+  "homepage": "https://github.com/LucasRPires/vue-generator.git",
+  "scripts": {
+    "build": "rm -rf dist && npm run gulp -- build",
+    "gulp": "gulp",
+    "prepublish": "npm run build"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "vue js",
+    "vue js component",
+    "vue js cli",
+    "vue js generator"
+  ],
+  "author": "Lucas Pires <lucasrp.lp@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "vgc": "dist/vgc.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasRPires/vue-generator.git"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "babel-cli": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13",
+    "command-line-args": "^2.1.3",
+    "del": "^2.2.0",
+    "fs-extra": "^0.26.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-cli": "^2.2.0",
+    "lodash": "^3.10.1",
+    "swig": "^1.4.2",
+    "vue-class-component": "^7.0.2",
+    "vue-property-decorator": "^8.1.0"
+  },
+  "devDependencies": {
+    "run-sequence": "^1.2.1"
+  }
+}
