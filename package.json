@@ -1,6 +1,6 @@
 {
   "name": "vue-generate-component-gbb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This project its a fork from library: Vue js component generator",
   "main": "lib/vgc.js",
   "homepage": "https://github.com/LucasRPires/vue-generator.git",
