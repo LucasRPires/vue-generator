@@ -1,4 +1,4 @@
-# This is a fork from origin library: Vue js component generator [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# This is a fork from origin library: Vue js component generator (https://github.com/NetanelBasal/vue-generate-component) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 CLI util for easy generate Vue js component
 ## Installation
