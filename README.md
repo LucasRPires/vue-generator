@@ -3,7 +3,7 @@
 CLI util for easy generate Vue js component
 ## Installation
 ```js
-npm install -g vue-generate-component
+npm install -g vue-generate-component-gbb
 ```
 
 ## Usage

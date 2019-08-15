@@ -1,5 +1,5 @@
 {
-  "name": "vue-generate",
+  "name": "vue-generate-component-gbb",
   "version": "1.0.0",
   "description": "This project its a fork from library: Vue js component generator",
   "main": "lib/vgc.js",
