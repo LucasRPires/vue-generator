@@ -37,7 +37,7 @@
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.1",
     "gulp-cli": "^2.2.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.13",
     "swig": "^1.4.2",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.1.0"
